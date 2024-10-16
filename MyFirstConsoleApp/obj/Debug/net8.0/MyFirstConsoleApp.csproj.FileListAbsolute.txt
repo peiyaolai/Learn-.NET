@@ -1,0 +1,14 @@
+/Users/peiyaolai/Documents/Code/dotNet/MyFirstConsoleApp/bin/Debug/net8.0/MyFirstConsoleApp
+/Users/peiyaolai/Documents/Code/dotNet/MyFirstConsoleApp/bin/Debug/net8.0/MyFirstConsoleApp.deps.json
+/Users/peiyaolai/Documents/Code/dotNet/MyFirstConsoleApp/bin/Debug/net8.0/MyFirstConsoleApp.runtimeconfig.json
+/Users/peiyaolai/Documents/Code/dotNet/MyFirstConsoleApp/bin/Debug/net8.0/MyFirstConsoleApp.dll
+/Users/peiyaolai/Documents/Code/dotNet/MyFirstConsoleApp/bin/Debug/net8.0/MyFirstConsoleApp.pdb
+/Users/peiyaolai/Documents/Code/dotNet/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peiyaolai/Documents/Code/dotNet/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstConsoleApp.AssemblyInfoInputs.cache
+/Users/peiyaolai/Documents/Code/dotNet/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstConsoleApp.AssemblyInfo.cs
+/Users/peiyaolai/Documents/Code/dotNet/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/peiyaolai/Documents/Code/dotNet/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstConsoleApp.dll
+/Users/peiyaolai/Documents/Code/dotNet/MyFirstConsoleApp/obj/Debug/net8.0/refint/MyFirstConsoleApp.dll
+/Users/peiyaolai/Documents/Code/dotNet/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstConsoleApp.pdb
+/Users/peiyaolai/Documents/Code/dotNet/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstConsoleApp.genruntimeconfig.cache
+/Users/peiyaolai/Documents/Code/dotNet/MyFirstConsoleApp/obj/Debug/net8.0/ref/MyFirstConsoleApp.dll
